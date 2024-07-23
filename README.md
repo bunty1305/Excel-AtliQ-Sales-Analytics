@@ -6,10 +6,10 @@ This project encompasses a comprehensive set of sales analytics reports for Atli
 ## Reports Created
 - Customer Performance Report: Analyzes individual customer performance.
 - Market Performance vs Target: Compares market performance against set targets.
-- Top 10 Products: Identifies the top 10 best-selling products.
-- Division Level Report: Offers insights at the division level.
-- Top and Bottom 5 Products: Highlights the top and bottom 5 products.
-- Top 5 Countries in Fiscal Year 2021: Lists the top 5 countries by sales in FY 2021.
+- Top 10 Products(https://github.com/bunty1305/Excel-AtliQ-Sales-Analytics/blob/main/AtliQ_BusinessPerformance_Report.pdf): Identifies the top 10 best-selling products.
+- Division Level Report(https://github.com/bunty1305/Excel-AtliQ-Sales-Analytics/blob/main/AtliQ_BusinessPerformance_Report.pdf): Offers insights at the division level.
+- Top and Bottom 5 Products(https://github.com/bunty1305/Excel-AtliQ-Sales-Analytics/blob/main/AtliQ_BusinessPerformance_Report.pdf): Highlights the top and bottom 5 products.
+- Top 5 Countries in Fiscal Year 2021(https://github.com/bunty1305/Excel-AtliQ-Sales-Analytics/blob/main/AtliQ_BusinessPerformance_Report.pdf): Lists the top 5 countries by sales in FY 2021.
 - P&L (Profit and Loss) by Fiscal Year: Detailed profit and loss analysis by fiscal year.
 - P&L by Fiscal Months: Monthly profit and loss breakdown.
 - GM% (Gross Margin %) by Quarters for Sub-Zone: Gross margin percentage by quarters for each sub-zone.
