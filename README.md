@@ -1,7 +1,7 @@
 # Excel-AtliQ-Sales-Analytics
 
 ## Overview
-This project encompasses a comprehensive set of sales analytics reports for AtliQ Technologies, leveraging the powerful features of MS Excel. The reports provide deep insights into various aspects of sales performance, tailored to meet the specific needs of AtliQ Technologies.
+This project encompasses a comprehensive set of sales analytics reports for AtliQ Hardware, leveraging the powerful features of MS Excel. The reports provide deep insights into various aspects of sales performance, tailored to meet the specific needs of AtliQ Technologies.
 
 ## Reports Created
 - [Customer Performance Report](https://github.com/bunty1305/Excel-AtliQ-Sales-Analytics/blob/main/AtliQ_CustomerPerformance_Report.pdf): Analyzes individual customer performance.
